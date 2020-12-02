@@ -1,0 +1,4 @@
+rust/*/target
+input.txt
+#golang/*/A
+#golang/*/B
